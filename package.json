@@ -1,0 +1,14 @@
+{
+  "name": "render-deploy",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": "https://github.com/aminetakha/render-deploy.git",
+  "author": "Amine <takhajr@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
